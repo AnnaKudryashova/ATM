@@ -1,5 +1,18 @@
 # ATM
 
+Console-based application with the following points:
+ * Principles of Object-Oriented Design;
+ * SOLID principles;
+ * Deposit to an account;
+ * Withdraw from an account;
+ * Multithreading implementation;
+ * Bank account balance enquiry;
+ * Currency options and currency converter;
+ * User login and password validation
+ * Factory method;
+ * JUnit 4;
+ * Javadoc
+
 Написать консольное приложение «Банкомат»
 Следовать принципам ООП(меньше статики, больше объектов и полиморфизма) и SOLID
 Функционал:
