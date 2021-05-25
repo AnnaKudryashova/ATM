@@ -11,7 +11,7 @@ Console-based application with the following points:
  * User login and password validation
  * Factory method;
  * JUnit 4;
- * Javadoc
+ * JavaDoc
 
 Написать консольное приложение «Банкомат»
 Следовать принципам ООП(меньше статики, больше объектов и полиморфизма) и SOLID
